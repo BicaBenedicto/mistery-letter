@@ -3,6 +3,7 @@
 Página utilizando Html, Css e Javascript, que transforma frases em "imagens coladas" como recortes de jornal.
 ## Demonstração
 
+![Desktop](./mistery-letter.PNG)
 
 ## Stack utilizada
 
